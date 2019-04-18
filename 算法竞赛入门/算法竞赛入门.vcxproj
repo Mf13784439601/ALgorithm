@@ -146,6 +146,48 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="niuke1.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="UVa10976.cpp" />
+    <ClCompile Include="UVa11059.cpp" />
+    <ClCompile Include="UVa11988.cpp" />
+    <ClCompile Include="UVa120.cpp" />
+    <ClCompile Include="UVa122.cpp" />
+    <ClCompile Include="UVa122Test.cpp" />
+    <ClCompile Include="UVa12657.cpp" />
+    <ClCompile Include="UVa129.cpp" />
+    <ClCompile Include="UVa140.cpp" />
+    <ClCompile Include="UVa1605.cpp" />
+    <ClCompile Include="UVa210.cpp" />
+    <ClCompile Include="UVa442矩阵链乘.cpp" />
+    <ClCompile Include="UVa514.cpp" />
+    <ClCompile Include="UVa524.cpp" />
+    <ClCompile Include="UVa548.cpp" />
+    <ClCompile Include="UVa679.cpp" />
+    <ClCompile Include="UVa699.cpp" />
+    <ClCompile Include="UVa725.cpp" />
+    <ClCompile Include="UVa839.cpp" />
+    <ClCompile Include="乘船问题.cpp" />
+    <ClCompile Include="八皇后问题.cpp" />
+    <ClCompile Include="切断圆环链UVa818.cpp" />
+    <ClCompile Include="区间选点问题.cpp" />
+    <ClCompile Include="四分树UVa297.cpp" />
+    <ClCompile Include="困难的串UVa129.cpp" />
+    <ClCompile Include="天平的难题UVa1354.cpp" />
+    <ClCompile Include="子集生成.cpp" />
+    <ClCompile Include="宝箱UVa12325.cpp" />
+    <ClCompile Include="归并排序.cpp" />
+    <ClCompile Include="最优装载问题.cpp" />
+    <ClCompile Include="最大连续和.cpp" />
+    <ClCompile Include="消防车UVa208.cpp" />
+    <ClCompile Include="生成1~n的排列.cpp" />
+    <ClCompile Include="素数环UVa524.cpp" />
+    <ClCompile Include="网格动物UVa1602.cpp" />
+    <ClCompile Include="逆序对问题.cpp" />
+    <ClCompile Include="选择不相交区间.cpp" />
+    <ClCompile Include="部分背包问题.cpp" />
+    <ClCompile Include="重叠的正方形UVa12113.cpp" />
+    <ClCompile Include="黄金图形.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

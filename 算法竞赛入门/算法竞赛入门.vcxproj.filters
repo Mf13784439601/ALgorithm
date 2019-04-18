@@ -13,5 +13,166 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\数据结构基础">
+      <UniqueIdentifier>{33215338-0439-417c-94f1-994c4e6eb34a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\暴力求解法">
+      <UniqueIdentifier>{f068794a-5030-405c-9376-dfa63abd6f27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\暴力求解法\回溯法">
+      <UniqueIdentifier>{554a7476-4b8e-4095-8dbd-c12bbfcb2a83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\暴力求解法\训练参考">
+      <UniqueIdentifier>{d0c9c26f-fcd5-4630-88ee-373b51d64e11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\高效算法设计">
+      <UniqueIdentifier>{b7e078cb-227e-424b-8a4d-0d13d6116704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\高效算法设计\分治法">
+      <UniqueIdentifier>{5dfbb7a6-b182-4668-8bdc-8d64256ca542}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\高效算法设计\再谈排序与检索">
+      <UniqueIdentifier>{be854d33-226d-4e10-b70c-714c8bf305f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\高效算法设计\贪心法">
+      <UniqueIdentifier>{4e8fb0f3-d333-4e3d-82a2-bb85c14b4b00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\高效算法设计\贪心法\背包相关问题">
+      <UniqueIdentifier>{5bf7adfd-9fc7-4d27-9849-e79a4902cc38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\高效算法设计\贪心法\区间相关问题">
+      <UniqueIdentifier>{68687b89-3989-4c46-8f7f-fcc1683e5f25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\高效算法设计\算法设计与优化策略">
+      <UniqueIdentifier>{a0f2fbd9-322a-4678-9972-45f647fa7805}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UVa210.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="niuke1.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa514.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa442矩阵链乘.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa11988.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa12657.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa679.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa122.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa122Test.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa548.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa839.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa699.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa725.cpp">
+      <Filter>源文件\暴力求解法</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa11059.cpp">
+      <Filter>源文件\暴力求解法</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa10976.cpp">
+      <Filter>源文件\暴力求解法</Filter>
+    </ClCompile>
+    <ClCompile Include="生成1~n的排列.cpp">
+      <Filter>源文件\暴力求解法</Filter>
+    </ClCompile>
+    <ClCompile Include="子集生成.cpp">
+      <Filter>源文件\暴力求解法</Filter>
+    </ClCompile>
+    <ClCompile Include="八皇后问题.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="素数环UVa524.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="困难的串UVa129.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa524.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa129.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa140.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="天平的难题UVa1354.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="宝箱UVa12325.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="网格动物UVa1602.cpp">
+      <Filter>源文件\暴力求解法\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="消防车UVa208.cpp">
+      <Filter>源文件\暴力求解法\训练参考</Filter>
+    </ClCompile>
+    <ClCompile Include="黄金图形.cpp">
+      <Filter>源文件\暴力求解法\训练参考</Filter>
+    </ClCompile>
+    <ClCompile Include="切断圆环链UVa818.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="重叠的正方形UVa12113.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="四分树UVa297.cpp">
+      <Filter>源文件\数据结构基础</Filter>
+    </ClCompile>
+    <ClCompile Include="最大连续和.cpp">
+      <Filter>源文件\高效算法设计\分治法</Filter>
+    </ClCompile>
+    <ClCompile Include="归并排序.cpp">
+      <Filter>源文件\高效算法设计\再谈排序与检索</Filter>
+    </ClCompile>
+    <ClCompile Include="逆序对问题.cpp">
+      <Filter>源文件\高效算法设计\再谈排序与检索</Filter>
+    </ClCompile>
+    <ClCompile Include="部分背包问题.cpp">
+      <Filter>源文件\高效算法设计\贪心法\背包相关问题</Filter>
+    </ClCompile>
+    <ClCompile Include="乘船问题.cpp">
+      <Filter>源文件\高效算法设计\贪心法\背包相关问题</Filter>
+    </ClCompile>
+    <ClCompile Include="最优装载问题.cpp">
+      <Filter>源文件\高效算法设计\贪心法\背包相关问题</Filter>
+    </ClCompile>
+    <ClCompile Include="选择不相交区间.cpp">
+      <Filter>源文件\高效算法设计\贪心法\区间相关问题</Filter>
+    </ClCompile>
+    <ClCompile Include="区间选点问题.cpp">
+      <Filter>源文件\高效算法设计\贪心法\区间相关问题</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa120.cpp">
+      <Filter>源文件\高效算法设计\算法设计与优化策略</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa1605.cpp">
+      <Filter>源文件\高效算法设计\算法设计与优化策略</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
